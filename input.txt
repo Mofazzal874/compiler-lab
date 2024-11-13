@@ -1,0 +1,28 @@
+let a appoint 5
+let b appoint 10
+let c
+show "Enter a positive number: "
+sweep(c)
+when a is greater than b {
+    show "first number is greater than second number"
+}
+or otherwise a identical b {
+    show "first number is equal to second number"
+}
+or otherwise a identical c {
+    show "first number is equal to third number"
+}
+otherwise {
+    show "first number is less than second number"
+}
+
+let d appoint 4
+button (d) {
+    case 1:
+        
+        cease;
+    case 2:
+        
+        cease;
+    standby:
+}

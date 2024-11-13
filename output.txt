@@ -1,0 +1,3 @@
+Keywords: 26
+Identifiers: 12
+Numbers: 5
