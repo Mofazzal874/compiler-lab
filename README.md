@@ -1,0 +1,1 @@
+[Read the explanation here](https://www.notion.so/observation-of-cp/lexer-explanation-13d5b7af56c78016b947cb01284ce5ac?pvs=4)
